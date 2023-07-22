@@ -41,7 +41,7 @@ Welcome to the summary of our 10-week workshop series! This workshop aimed to pr
 
 Each week, we focused on a different topic, allowing participants to gain practical skills and knowledge in various areas. Here's an overview of the topics covered:
 1. Week 1 - Introduction to Programming: Fundamentals of programming languages, variables, data types, and control structures.
-   - Project: [Link to Week 1 Project Folder](./week1)
+   - Project: [Week1](./week1)
 
 2. Week 2 - Web Development Basics: HTML, CSS, and building static web pages.
    - Project: [Link to Week 2 Project Folder](./week2)
