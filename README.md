@@ -40,26 +40,35 @@ Welcome to the summary of our 10-week workshop series! This workshop aimed to pr
 ## Topics Covered
 
 Each week, we focused on a different topic, allowing participants to gain practical skills and knowledge in various areas. Here's an overview of the topics covered:
+1. Week 1 - Introduction to Programming: Fundamentals of programming languages, variables, data types, and control structures.
+   - Project: [Link to Week 1 Project Folder](./week1)
 
-1. Week 1 - Overview of Customer Analytics
+2. Week 2 - Web Development Basics: HTML, CSS, and building static web pages.
+   - Project: [Link to Week 2 Project Folder](./week2)
 
-2. Week 2 - 
+3. Week 3 - Version Control with Git: Working with Git for collaboration and code management.
+   - Project: [Link to Week 3 Project Folder](./week3)
 
-3. Week 3 - 
+4. Week 4 - Python Programming: Deep dive into Python, libraries, and object-oriented programming.
+   - Project: [Link to Week 4 Project Folder](./week4)
 
-4. Week 4 - 
+5. Week 5 - Data Wrangling: Extracting, transforming, and loading data using Pandas.
+   - Project: [Link to Week 5 Project Folder](./week5)
 
-5. Week 5 - 
+6. Week 6 - Data Visualization: Creating insightful visualizations with Matplotlib and Seaborn.
+   - Project: [Link to Week 6 Project Folder](./week6)
 
-6. Week 6 - 
+7. Week 7 - Machine Learning Fundamentals: Introduction to machine learning concepts and algorithms.
+   - Project: [Link to Week 7 Project Folder](./week7)
 
-7. Week 7 - 
+8. Week 8 - Deep Learning Basics: Understanding neural networks and implementing with TensorFlow.
+   - Project: [Link to Week 8 Project Folder](./week8)
 
-8. Week 8 - 
+9. Week 9 - Natural Language Processing: Analyzing text data and building language models.
+   - Project: [Link to Week 9 Project Folder](./week9)
 
-9. Week 9 - 
-
-10. Week 10 - 
+10. Week 10 - Project Showcase: Participants presented their final projects and received feedback.
+   - Project: [Link to Week 10 Project Folder](./week10)
 
 ## Hands-On Projects
 
