@@ -5,4 +5,4 @@
 ## Frequency
 Normalized as percentage count for each question
 ### Interests
-![interest frequency](.Screenshot 2566-07-22 at 17.37.15..png)
+![interest frequency](https://drive.google.com/file/d/1ZAN2ja5zAYjPTnkmH2sH9wn9N4KAhpjh/view?usp=share_link)
