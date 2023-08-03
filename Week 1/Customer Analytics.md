@@ -11,4 +11,4 @@ A survey asking about interests and consumptions of 30 things, e.g., Japanese fo
 
 Example of the result  
 ## Demographic
-![demographic](./demographic.png)
+![demographic](./JoneSalad.png)
