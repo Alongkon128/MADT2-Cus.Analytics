@@ -4,34 +4,33 @@ Let's Explore to Unlock Insights for Business Success by collecting, analyzing, 
 ## Overview
 
 This showcases of my Customer Analytics projects throughout 10 weeks of classes, where I leveraged data analysis and machine learning to gain valuable insights into customer behavior and preferences.This repository highlights my Customer Analytics project, demonstrating my expertise in utilizing data analysis and machine learning to gain valuable insights into customer behavior and preferences.
-[## Frequency
-Normalized as percentage count for each question
-### Interests
-![interest frequency](./Screenshot 2566-07-22 at 17.37.15.png)
+
 
 ## Table of Contents
+- Overview of Customer Analytics
+- Designing Customer Data Platform
+- Building Customer Single View
+- Basic Customer Analytics
+- Customer Lifetime Value 
+- Customer Scoring
+- Churn Scoring
+- Campaign Response Scoring 
+- Customer Segmentation Segment Movement Analysis
+- Product Recommendation
+- Content Recommendation
+- Social Network Analysis
+- Voice of Customer Analytics Customer Analytics
+- Overview of Customer Analytics
+- Designing Customer Data Platform
+- Building Customer Single View
+- Basic Customer Analytics
 
-- [Introduction](#introduction)
-- [Project Highlights](#project-highlights)
-- [Key Features](#key-features)
-- [Data](#data)
-- [Methods](#methods)
-- [Results](#results)
-- [How to View](#how-to-view)
-- [License](#license)
-
-
-## Key Highlights
+# Workshop Summary - 10 Weeks of Learning
 
 - Conducted in-depth customer data analysis from diverse sources to identify trends and patterns.
 - Developed a customer segmentation model, grouping customers based on behavior for targeted marketing efforts.
 - Implemented machine learning to predict customer churn and estimate potential Customer Lifetime Value (CLV).
 - Created a personalized recommender system for enhancing customer shopping experiences and increasing sales.
-# Workshop Summary - 10 Weeks of Learning
-
-## Introduction
-
-Welcome to the summary of our 10-week workshop series! This workshop aimed to provide participants with a comprehensive learning experience covering various topics in software development, data science, and artificial intelligence.
 
 ## Workshop Details
 
