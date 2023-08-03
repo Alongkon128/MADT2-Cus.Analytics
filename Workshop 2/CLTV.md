@@ -1,5 +1,6 @@
-# Customer Analytics Project
-To be more Understanding in Customer with Analytics skill
-Let's Explore to Unlock Insights for Business Success by collecting, analyzing, and interpreting customer data to gain insights into customer behavior.
+# Customer Lifetime Values
+การทำความเข้าใจ CLTV มาประยุกต์ใช้ในการทำ Royalty Program โดยเราได้เลือกตัวอย่าง "JoneSalad"
+
+- ช่วยให้ธุรกิจแบ่งกลุ่มฐานลูกค้า Segmentation ตามแปรต่างๆที่เราได้คิดขึ้น โดยจุดประสงค์สิ่งนี้ช่วยในการปรับแต่งการตลาดและการบริการลูกค้าให้เหมาะกับความต้องการของกลุ่มลูกค้าที่แตกต่างกัน ซึ่งจะเป็นการเพิ่มความพึงพอใจและความภักดีของลูกค้า
 ## Overview
 
