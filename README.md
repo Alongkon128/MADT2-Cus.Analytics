@@ -4,10 +4,10 @@ Let's Explore to Unlock Insights for Business Success by collecting, analyzing, 
 ## Overview
 
 This showcases of my Customer Analytics projects throughout 10 weeks of classes, where I leveraged data analysis and machine learning to gain valuable insights into customer behavior and preferences.This repository highlights my Customer Analytics project, demonstrating my expertise in utilizing data analysis and machine learning to gain valuable insights into customer behavior and preferences.
-## Frequency
+[## Frequency
 Normalized as percentage count for each question
 ### Interests
-![interest frequency](./Screenshot 2566-07-22 at 17.37.15..png)
+![interest frequency](./Screenshot 2566-07-22 at 17.37.15..png)](https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/eaa219dc602b973fe531580732ecfdf6d3c6f83c/Week%201/Screenshot%202566-07-22%20at%2017.37.15.png)
 
 ## Table of Contents
 
