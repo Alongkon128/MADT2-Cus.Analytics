@@ -12,8 +12,10 @@ Customer Data Platform (CDP) เป็นเครื่องมือที่
 
 # Customer Single View
 Customer Single View เป็นโปรไฟล์แบบครบวงจรที่รวมข้อมูลที่มีอยู่ทั้งหมดเกี่ยวกับลูกค้าไว้ในบันทึกเดียวที่เข้าถึงได้ง่าย ให้มุมมอง 360 องศาของลูกค้าแต่ละราย รวมถึงการโต้ตอบ ความชอบ ประวัติการซื้อ และพฤติกรรมผ่านจุดสัมผัสและช่องทางต่างๆ
+ใน Assignment นี้เราได้วิเคราะห์ธุรกิจการทำสินเชื่อส่วนบุคคล โดยจุดประสงค์คือการนำ Customer Single พร้อมตัวแปรมาทำ Credit Scoring before provade approval
 
-![Single View](./Reward.png)
+
+![Single View](./Singleview.png)
 
 # Segmentation with K-Mean 
 การแบ่งกลุ่มลูกค้าโดยใช้ K-Means clustering เป็นเทคนิคที่จัดกลุ่มลูกค้าออกเป็นส่วนที่แตกต่างกันตามความคล้ายคลึงกัน
