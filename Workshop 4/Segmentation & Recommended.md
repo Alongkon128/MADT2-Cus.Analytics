@@ -37,10 +37,17 @@
 * `NO_CAT_rank` : Percentile of number of purchasing by category (26 category)
 * `Percent_no_online` : total online transactions/total transactions
 
-All the features are taken from single customer view table
-#### Choosing K number of clusters
-Choose `K = 4` with the lowest silhoette score of 0.26
-![choosingK](./img/choosingK.PNG)
+# 2) Customer Segmentation
+## K-Mean Clustering
+การแบ่งกลุ่มโดยใช้การจัดกลุ่มแบบเคมีนเป็นเทคนิคการวิเคราะห์ข้อมูลที่จัดกลุ่มจุดข้อมูลที่คล้ายคลึงกันเข้าไว้ด้วยกันเป็นกลุ่ม ในบริบทของการแนะนำผลิตภัณฑ์ การจัดกลุ่มเคมีนสามารถนำไปใช้เพื่อระบุกลุ่มลูกค้าที่แตกต่างกันตามพฤติกรรมการซื้อหรือความชอบของพวกเขา ช่วยให้ธุรกิจสามารถสร้างคำแนะนำผลิตภัณฑ์เป้าหมายสำหรับแต่ละคลัสเตอร์ได้
 
-#### Clustering Result
-![clustering_result](./img/clusterplot.png)
+การจัดกลุ่มแบบเคมีนทำงานโดยการกำหนดจุดข้อมูลซ้ำๆ ให้กับเซนทรอยด์ของคลัสเตอร์ที่ใกล้ที่สุด จากนั้นคำนวณเซนทรอยด์ใหม่ตามจุดที่ได้รับมอบหมาย กระบวนการนี้จะดำเนินต่อไปจนกว่าเซนทรอยด์จะเสถียรและเกิดกระจุกขึ้น
+#### Choosing K number of clusters
+
+![Objective](./Objective.png) 
+![Kmean-Clustering](./Kmean.png)   
+![FirstGroup](./first.png) 
+![SecondGroup](./second.png) 
+![PotentialGroup](./Potential.png) 
+![Collabolative](./Collabo.png)   
+![Recommended Products](./Productrec.png) 
