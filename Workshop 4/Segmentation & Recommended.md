@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Collaborative--Filtering-orange)](#) 
 
 # Overview
-![ProjectOverview](./img/Overview.png)
+![ProjectOverview](./Overview.png)
 # Data Set
 ![ProjectOverview](./img/ProjectOverview.PNG)
 
