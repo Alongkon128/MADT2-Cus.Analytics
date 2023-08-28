@@ -2,11 +2,13 @@
 [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/-K--Means-orange)](#) [![](https://img.shields.io/badge/-Collaborative--Filtering-orange)](#) 
 
 # Overview
+#### ........การทำ Segmentation คือ การแบ่งฐานผู้บริโภคในวงกว้างออกเป็นกลุ่มต่างๆ ตามคุณลักษณะหรืแที่มีร่วมกันตามตัวแปรที่เชื่อว่าเป็น Key Measure  เมื่อระบุกลุ่มเหล่านี้แล้ว จะสามารถสร้างคำแนะนำผลิตภัณฑ์ที่เหมาะกับแต่ละกลุ่มได้ User-Based (Collaborative-Filtering) ด้วยการทำความเข้าใจความต้องการและความชอบเฉพาะตัวของกลุ่มธุรกิจเหล่านี้ จึงสามารถเสนอ Recommend System ที่ตรงใจลูกค้าได้ดียิ่งขึ้นและการันตีการเพิ่มยอดขายให้แก่องค์กร
+
 ![ProjectOverview](./Overview.png)
 # Data Set
 ![ProjectOverview](./img/ProjectOverview.PNG)
 
-1. data member : master data of downline and his/her sponsor
+1. data member : Customer Profile พร้อมข้อมูล hierarchy ของ 'downline' และ 'sponsor'
 2. transaction 2021 - 2022 : contains sales by bill from year 2021 to 2022
 #### Created Dataset
 1. sponsor master : master data of sponsor and no. of downline per sponsor
@@ -17,11 +19,12 @@ base on datasets above, we create the following data single customer view table:
 
 ![SCV](./img/SCV.png)     
 
-- List of SCV Features
-  
-![feature](./img/feature.PNG)
 
-# 3) Clustering
+# 1) ระบุเกณฑ์การแบ่งส่วน
+
+เริ่มต้นด้วยการระบุเกณฑ์ที่คุณจะใช้เพื่อแบ่งกลุ่มตลาดของคุณ สิ่งเหล่านี้อาจรวมถึงปัจจัยทางประชากร (อายุ เพศ รายได้) ปัจจัยทางจิต (ไลฟ์สไตล์ ค่านิยม ความสนใจ) ปัจจัยด้านพฤติกรรม (ประวัติการซื้อ พฤติกรรมออนไลน์) หรือปัจจัยทางภูมิศาสตร์ (สถานที่ สภาพภูมิอากาศ) เกณฑ์ที่คุณเลือกควรเกี่ยวข้องกับผลิตภัณฑ์ของคุณและเป้าหมายของกลยุทธ์การแนะนำของคุณ
+
+
 **Notebooks:** [Clustering Model](./V2_1_HDI_Segmentation.ipynb)  
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jane-russ/MADT8101/blob/main/5.Segmentation/V2_1_HDI_Segmentation.ipynb)
 #### Features
