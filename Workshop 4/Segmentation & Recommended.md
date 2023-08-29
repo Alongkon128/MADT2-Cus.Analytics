@@ -44,11 +44,26 @@
 ### K-Mean Methodology
 การจัดกลุ่มแบบ K-Mean ทำงานโดยการกำหนดจุดข้อมูลซ้ำๆ ให้กับเซนทรอยด์ของคลัสเตอร์ที่ใกล้ที่สุด จากนั้นคำนวณเซนทรอยด์ใหม่ตามจุดที่ได้รับมอบหมาย กระบวนการนี้จะดำเนินต่อไปจนกว่าเซนทรอยด์จะเสถียรและเกิดกระจุกขึ้น _aims to minimize the sum of squared distances between data points and their respective cluster centroids_
 
-### K-Mean Methodology
+## Workflow Overview
 ![Kmean-Clustering](./Kmean.png)  
+หลังจากการทำ K-Mean รอบแรกด้วย K=3 ทำให้ได้ออกมาเป็น 3 Cluster ใหญ่ๆ
+1. Shopper Elite
+   - `AGV Spending` 1.2 M ,`AGV SKU` 3.66 K,`AGV MTBT/Days` 126.36 K
+2. Product Lover
+   - `AGV Spending` 195.4 K ,`AGV SKU` 28.15 K,`AGV MTBT/Days` 14.61 K
+3. General Shopper
+   - _Begin to Clustering 2st round the propotion stand more than 65.74%_
 
 ![FirstGroup](./first.png) 
 
+" General Shopper " นำมาทำ K-Mean รอบที่สองโดย K=3 ทำให้ได้ 3 Cluster ออกมาอีกในการวิเคราะห์
+1. Shopper Loyalist
+   - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
+2. Need Attention
+   - `AGV Spending` 231.5 K ,`AGV SKU` 4.51 K,`AGV MTBT/Days` 64.09 K
+3. Product Leader
+   - `AGV Spending` 153 K ,`AGV SKU` 10.51 K,`AGV MTBT/Days` 21.11 K
+   
 ![SecondGroup](./second.png) 
 ![PotentialGroup](./Potential.png) 
 ![Collabolative](./Collabo.png)   
