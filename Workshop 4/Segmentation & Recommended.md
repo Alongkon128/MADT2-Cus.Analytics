@@ -69,7 +69,7 @@
 ![SecondGroup](./second.png) 
 
 
-* จากกลุ่มทั้งหมด 5 กลุ่มที่ผ่านการ Clustering 2 รอบเราได้เลือก 2 กลุ่มขึ้นมายกตัวอย่างในการทำ Analyses ต่อโดยใช้ Collaborative Filtering เพื่อค้นหาและแนะนำสินค้าที่มีความเป็นไปได้สูงว่าลูกค้าในกลุ่มนั้นๆจะสนใจ
+* จากกลุ่มทั้งหมด 5 กลุ่มที่ผ่านการ Clustering 2 รอบเราได้เลือก 2 กลุ่มขึ้นมายกตัวอย่างในการทำ Analyses ต่อโดยใช้ Collaborative Filtering เพื่อค้นหาและแนะนำสินค้าที่มีความเป็นไปได้สูงว่าลูกค้าในกลุ่มเดียวกันจะสนใจโดยจุดประสงค์เพื่อ เพิ่มยอดขายจากการทำ Campaign ที่ผ่านการตัดสินจากข้อมูลที่มี
   
 1. Shopper Loyalist
    - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
@@ -82,8 +82,5 @@
 Item-Based Collaborative Filtering: In this approach, items are compared based on their interactions with users. Items that are frequently interacted with by the same group of users are considered similar.
 
 ![Collabolative](./Collabo.png)   
-
-
 ![Recommended Products](./Productrec.png) 
-![Objective](./Objective.png) 
-![Kmean-Clustering](./Kmean.png)  
+
