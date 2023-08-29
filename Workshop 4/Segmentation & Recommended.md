@@ -38,16 +38,20 @@
 * `Percent_no_online` : total online transactions/total transactions
 
 # 2) Customer Segmentation
-## K-Mean Clustering
-การแบ่งกลุ่มโดยใช้การจัดกลุ่มแบบเคมีนเป็นเทคนิคการวิเคราะห์ข้อมูลที่จัดกลุ่มจุดข้อมูลที่คล้ายคลึงกันเข้าไว้ด้วยกันเป็นกลุ่ม ในบริบทของการแนะนำผลิตภัณฑ์ การจัดกลุ่มเคมีนสามารถนำไปใช้เพื่อระบุกลุ่มลูกค้าที่แตกต่างกันตามพฤติกรรมการซื้อหรือความชอบของพวกเขา ช่วยให้ธุรกิจสามารถสร้างคำแนะนำผลิตภัณฑ์เป้าหมายสำหรับแต่ละคลัสเตอร์ได้
+### K-Mean Clustering
+การแบ่งกลุ่มโดยใช้การ algorithm K-Mean เป็นเทคนิคการวิเคราะห์ข้อมูลที่จัดกลุ่มจุดข้อมูลที่คล้ายคลึงกันเข้าไว้ด้วยกันเป็นกลุ่ม การจัดกลุ่มเคมีนสามารถนำไปใช้เพื่อระบุกลุ่มลูกค้าที่แตกต่างกันตามพฤติกรรมการซื้อหรือความชอบของพวกเขา ช่วยให้ธุรกิจสามารถสร้างคำแนะนำผลิตภัณฑ์เป้าหมายสำหรับแต่ละ Cluster ได้ 
 
-การจัดกลุ่มแบบเคมีนทำงานโดยการกำหนดจุดข้อมูลซ้ำๆ ให้กับเซนทรอยด์ของคลัสเตอร์ที่ใกล้ที่สุด จากนั้นคำนวณเซนทรอยด์ใหม่ตามจุดที่ได้รับมอบหมาย กระบวนการนี้จะดำเนินต่อไปจนกว่าเซนทรอยด์จะเสถียรและเกิดกระจุกขึ้น
-#### Choosing K number of clusters
+### K-Mean Methodology
+การจัดกลุ่มแบบ K-Mean ทำงานโดยการกำหนดจุดข้อมูลซ้ำๆ ให้กับเซนทรอยด์ของคลัสเตอร์ที่ใกล้ที่สุด จากนั้นคำนวณเซนทรอยด์ใหม่ตามจุดที่ได้รับมอบหมาย กระบวนการนี้จะดำเนินต่อไปจนกว่าเซนทรอยด์จะเสถียรและเกิดกระจุกขึ้น _aims to minimize the sum of squared distances between data points and their respective cluster centroids_
 
-![Objective](./Objective.png) 
-![Kmean-Clustering](./Kmean.png)   
+### K-Mean Methodology
+![Kmean-Clustering](./Kmean.png)  
+
 ![FirstGroup](./first.png) 
+
 ![SecondGroup](./second.png) 
 ![PotentialGroup](./Potential.png) 
 ![Collabolative](./Collabo.png)   
 ![Recommended Products](./Productrec.png) 
+![Objective](./Objective.png) 
+![Kmean-Clustering](./Kmean.png)  
