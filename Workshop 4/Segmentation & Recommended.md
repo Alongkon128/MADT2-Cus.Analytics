@@ -46,7 +46,8 @@
 
 ## Workflow Overview
 ![Kmean-Clustering](./Kmean.png)  
-หลังจากการทำ K-Mean รอบแรกด้วย K=3 ทำให้ได้ออกมาเป็น 3 Cluster ใหญ่ๆ
+* หลังจากการทำ K-Mean รอบแรกด้วย K=3 ทำให้ได้ออกมาเป็น 3 Cluster ใหญ่ๆ
+  
 1. Shopper Elite
    - `AGV Spending` 1.2 M ,`AGV SKU` 3.66 K,`AGV MTBT/Days` 126.36 K
 2. Product Lover
@@ -56,7 +57,8 @@
 
 ![FirstGroup](./first.png) 
 
-" General Shopper " นำมาทำ K-Mean รอบที่สองโดย K=3 ทำให้ได้ 3 Cluster ออกมาอีกในการวิเคราะห์
+* "General Shopper" นำมาทำ K-Mean รอบที่สองโดย K=3 ทำให้ได้ 3 Cluster ออกมาอีกในการวิเคราะห์
+  
 1. Shopper Loyalist
    - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
 2. Need Attention
@@ -65,8 +67,23 @@
    - `AGV Spending` 153 K ,`AGV SKU` 10.51 K,`AGV MTBT/Days` 21.11 K
    
 ![SecondGroup](./second.png) 
+
+
+* จากกลุ่มทั้งหมด 5 กลุ่มที่ผ่านการ Clustering 2 รอบเราได้เลือก 2 กลุ่มขึ้นมายกตัวอย่างในการทำ Analyses ต่อโดยใช้ Collaborative Filtering เพื่อค้นหาและแนะนำสินค้าที่มีความเป็นไปได้สูงว่าลูกค้าในกลุ่มนั้นๆจะสนใจ
+  
+1. Shopper Loyalist
+   - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
+2. Shopper Elite
+   - `AGV Spending` 1.2 M ,`AGV SKU` 3.66 K,`AGV MTBT/Days` 126.36 K
+     
 ![PotentialGroup](./Potential.png) 
+
+### Collaborative Filtering
+Item-Based Collaborative Filtering: In this approach, items are compared based on their interactions with users. Items that are frequently interacted with by the same group of users are considered similar.
+
 ![Collabolative](./Collabo.png)   
+
+
 ![Recommended Products](./Productrec.png) 
 ![Objective](./Objective.png) 
 ![Kmean-Clustering](./Kmean.png)  
