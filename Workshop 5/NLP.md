@@ -1,10 +1,10 @@
 # Voice of Customer
 [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/Noises-blue)](#) [![](https://img.shields.io/badge/NLP-red)](#) 
 
-### Overview
+## Overview
 #### ........กระบวนการรวบรวมและทำความเข้าใจความคิดเห็น ความคิดเห็น ความชอบ และความคาดหวังของลูกค้าเกี่ยวกับผลิตภัณฑ์ บริการ หรือแบรนด์ เป็นองค์ประกอบสำคัญของการจัดการประสบการณ์ลูกค้าและการพัฒนาผลิตภัณฑ์ ช่วยให้องค์กรต่างๆ จัดข้อเสนอให้สอดคล้องกับความต้องการและความปรารถนาของลูกค้า เช่น การวิเคราะห์ 'Sentiment' ของลูกค้าที่ฝังอยู่ในข้อความและรีวิวเป็นพันๆหมื่นๆข้อความ หรือแม้กระทั้งตอบโจทย์การเพิ่ม 'Satisfaction' ของลูกค้าในการบริการที่ Realtime & Accurated มาขึ้นจาก Chatbot Intellitegent
 
-## Benefit of LISTENING
+### Benefit of LISTENING
 1. **Filling in the Gaps:**
 - การวิเคราะห์ VoC ช่วยระบุช่องว่างในการสื่อสาร การตลาด หรือผลิตภัณฑ์และบริการ โดยเผยให้เห็นส่วนที่ประสบการณ์ของลูกค้าไม่เป็นไปตามความคาดหวัง ทำให้เกิดการปรับเปลี่ยนและปรับปรุงได้
 2. **Increasing Customer Loyalty:**
@@ -13,33 +13,14 @@
 - ความคิดเห็นของ VoC ให้ข้อมูลเชิงลึกที่มีคุณค่าเกี่ยวกับมุมมองของลูกค้า ช่วยให้เข้าใจประเด็นที่เป็นปัญหาและความต้องการ ข้อมูลเชิงลึกเหล่านี้เป็นแรงบันดาลใจในการปรับปรุงผลิตภัณฑ์และฟีเจอร์ ส่งเสริมการมีส่วนร่วมและความไว้วางใจของลูกค้า
 4. **Crisis Management:**
 - การตรวจสอบ VoC แบบเรียลไทม์ช่วยให้สามารถคาดการณ์ปัญหาเชิงรุกได้ ช่วยในการแก้ไขปัญหาต่างๆ เช่น ความผิดปกติของผลิตภัณฑ์หรือฟีเจอร์ ก่อนที่จะบานปลาย ช่วยเพิ่มชื่อเสียงของแบรนด์และความพึงพอใจของลูกค้า
-
+#### VoC Tools
+* `Sentiment analysis`,`Fake review identification`,`Topic identification`,`Net promoter score` ,`Named entity recognition`
 # Natural language processing (NLP) 
-การประมวลผลภาษาธรรมชาติ (NLP) เป็นเทคโนโลยีแมชชีนเลิร์นนิ่งที่ช่วยให้คอมพิวเตอร์สามารถตีความ จัดการ และทำความเข้าใจภาษามนุษย์ได้ องค์กรในปัจจุบันมีข้อมูลเสียงและข้อความจำนวนมากจากช่องทางการสื่อสารต่างๆ เช่น อีเมล ข้อความ ฟีดข่าวโซเชียลมีเดีย วิดีโอ เสียง และอื่นๆ พวกเขาใช้ซอฟต์แวร์ NLP เพื่อประมวลผลข้อมูลนี้โดยอัตโนมัติ 
-- `Payment_date` ที่นำมาวิเคราะห์ระหว่าง "01 July 22" - "01 June 23"
+การประมวลผลภาษาธรรมชาติ (NLP) เป็นเทคโนโลยีแมชชีนเลิร์นนิ่ง [![](https://img.shields.io/badge/-Python-green)](#) ที่ช่วยให้คอมพิวเตอร์สามารถตีความ จัดการ และทำความเข้าใจภาษามนุษย์ได้ องค์กรในปัจจุบันมีข้อมูลเสียงและข้อความจำนวนมากจากช่องทางการสื่อสารต่างๆ เช่น อีเมล ข้อความ ฟีดข่าวโซเชียลมีเดีย วิดีโอ เสียง และอื่นๆ พวกเขาใช้ซอฟต์แวร์ NLP เพื่อประมวลผลข้อมูลนี้โดยอัตโนมัติ 
+### Using Tools
+* `Topic identification`
 
 ![ProjectOverview](./Overview.png)   
-
-# 1) Create single customer view
-#### Features 36 Viables : No., Field name, Meaning
-* `member_id` : Define “ent” from member data as primary key
-* `original_status` : -
-* `sponsorship` : Influential power
-* `registered_year` : Starting year of being  member 
-* `registered_month` : Starting month of being  member 
-* `member_duration` : Membership age since starting until current
-* `no_of_purchasing` : Number of purchasing (Ticket counted)
-* `total_spending` : Sum of sales amount
-* `avg_spending` : Average total_spending per Ticket
-* `total_product_qty` : Sum product quantity
-* `total_product_qty_bycategory` : Sum product quantity by category (26 category)
-* `category_count` : Count purchased category
-* `sku_count` : Count purchased sku
-* `Percent_paid` : Paid/Total_spending
-* `avg_paid` : Percent_paid/no_of_purchasing
-* `MTBP_Days` : (Last purchased-First purchased)/no. of purchasing
-* `NO_CAT_rank` : Percentile of number of purchasing by category (26 category)
-* `Percent_no_online` : total online transactions/total transactions
 
 # 2) Customer Segmentation
 ### K-Mean Clustering
