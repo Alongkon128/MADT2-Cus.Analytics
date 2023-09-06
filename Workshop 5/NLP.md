@@ -1,7 +1,4 @@
 # Voice of Customer
-[![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/Noises-blue)](#) [![](https://img.shields.io/badge/NLP-red)](#) 
-
-## Overview
 #### ........กระบวนการรวบรวมและทำความเข้าใจความคิดเห็น ความคิดเห็น ความชอบ และความคาดหวังของลูกค้าเกี่ยวกับผลิตภัณฑ์ บริการ หรือแบรนด์ เป็นองค์ประกอบสำคัญของการจัดการประสบการณ์ลูกค้าและการพัฒนาผลิตภัณฑ์ ช่วยให้องค์กรต่างๆ จัดข้อเสนอให้สอดคล้องกับความต้องการและความปรารถนาของลูกค้า เช่น การวิเคราะห์ 'Sentiment' ของลูกค้าที่ฝังอยู่ในข้อความและรีวิวเป็นพันๆหมื่นๆข้อความ หรือแม้กระทั้งตอบโจทย์การเพิ่ม 'Satisfaction' ของลูกค้าในการบริการที่ Realtime & Accurated มาขึ้นจาก Chatbot Intellitegent
 
 ### Benefit of LISTENING
@@ -13,58 +10,22 @@
 - ความคิดเห็นของ VoC ให้ข้อมูลเชิงลึกที่มีคุณค่าเกี่ยวกับมุมมองของลูกค้า ช่วยให้เข้าใจประเด็นที่เป็นปัญหาและความต้องการ ข้อมูลเชิงลึกเหล่านี้เป็นแรงบันดาลใจในการปรับปรุงผลิตภัณฑ์และฟีเจอร์ ส่งเสริมการมีส่วนร่วมและความไว้วางใจของลูกค้า
 4. **Crisis Management:**
 - การตรวจสอบ VoC แบบเรียลไทม์ช่วยให้สามารถคาดการณ์ปัญหาเชิงรุกได้ ช่วยในการแก้ไขปัญหาต่างๆ เช่น ความผิดปกติของผลิตภัณฑ์หรือฟีเจอร์ ก่อนที่จะบานปลาย ช่วยเพิ่มชื่อเสียงของแบรนด์และความพึงพอใจของลูกค้า
-#### VoC Tools
+### VoC Tools
 * `Sentiment analysis`,`Fake review identification`,`Topic identification`,`Net promoter score` ,`Named entity recognition`
-# Natural language processing (NLP) 
-การประมวลผลภาษาธรรมชาติ (NLP) เป็นเทคโนโลยีแมชชีนเลิร์นนิ่งที่ช่วยให้คอมพิวเตอร์สามารถตีความ จัดการ และทำความเข้าใจภาษามนุษย์ได้ องค์กรในปัจจุบันมีข้อมูลเสียงและข้อความจำนวนมากจากช่องทางการสื่อสารต่างๆ เช่น อีเมล ข้อความ ฟีดข่าวโซเชียลมีเดีย วิดีโอ เสียง และอื่นๆ พวกเขาใช้ซอฟต์แวร์ NLP เพื่อประมวลผลข้อมูลนี้โดยอัตโนมัติ 
-### Using Tools
-* `Topic identification` การทำ "Topic Modeling LDA" ด้วยการทำผ่าน [![](https://img.shields.io/badge/-Python-green)](#) เพื่อการจัดประเภทคำหรือ "Tokenize Words" แล้วจึงนำไปรวมภายใต้ Topic ที่เหมาะสม
+  #### Natural language processing (NLP) 
+  - การประมวลผลภาษาธรรมชาติ (NLP) เป็นเทคโนโลยีแมชชีนเลิร์นนิ่งที่ช่วยให้คอมพิวเตอร์สามารถตีความ จัดการ และทำความเข้าใจภาษามนุษย์ได้ องค์กรในปัจจุบันมีข้อมูลเสียงและข้อความจำนวนมากจากช่องทางการสื่อสารต่างๆ เช่น อีเมล ข้อความ ฟีดข่าวโซเชียลมีเดีย วิดีโอ เสียง และอื่นๆ พวกเขาใช้ซอฟต์แวร์ NLP เพื่อประมวลผลข้อมูลนี้โดยอัตโนมัติ 
 
-![ProjectOverview](./Overview.png)   
+# _Case Analysis_
+[![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/Noises-blue)](#) [![](https://img.shields.io/badge/NLP-red)](#) 
 
-# 2) Customer Segmentation
-### K-Mean Clustering
-การแบ่งกลุ่มโดยใช้การ algorithm K-Mean เป็นเทคนิคการวิเคราะห์ข้อมูลที่จัดกลุ่มจุดข้อมูลที่คล้ายคลึงกันเข้าไว้ด้วยกันเป็นกลุ่ม การจัดกลุ่มเคมีนสามารถนำไปใช้เพื่อระบุกลุ่มลูกค้าที่แตกต่างกันตามพฤติกรรมการซื้อหรือความชอบของพวกเขา ช่วยให้ธุรกิจสามารถสร้างคำแนะนำผลิตภัณฑ์เป้าหมายสำหรับแต่ละ Cluster ได้ 
+## 'TrueMoney' Application (by 'True Money Company Limtied')
+### ทรูมันนี่ คือแอปพลิเคชันทางการเงินที่ให้บริการครบวงจรทั้งการใช้จ่าย ออม และลงทุน อีกทั้งยังสามารถใช้จ่ายแทนเงินสด 'Wallet' ได้ทั้งใช้ซื้อสินค้าที่เซเว่น-อีเลฟเว่น จ่ายบิล เติมเงินมือถือและอื่น 
 
-### K-Mean Methodology
-การจัดกลุ่มแบบ K-Mean ทำงานโดยการกำหนดจุดข้อมูลซ้ำๆ ให้กับเซนทรอยด์ของคลัสเตอร์ที่ใกล้ที่สุด จากนั้นคำนวณเซนทรอยด์ใหม่ตามจุดที่ได้รับมอบหมาย กระบวนการนี้จะดำเนินต่อไปจนกว่าเซนทรอยด์จะเสถียรและเกิดกระจุกขึ้น _aims to minimize the sum of squared distances between data points and their respective cluster centroids_
+![ProjectOverview](./Overview.png)  
 
-## Workflow Overview
-![Kmean-Clustering](./Kmean.png)  
-* หลังจากการทำ K-Mean รอบแรกด้วย K=3 ทำให้ได้ออกมาเป็น 3 Cluster ใหญ่ๆ
-  
-1. Shopper Elite
-   - `AGV Spending` 1.2 M ,`AGV SKU` 3.66 K,`AGV MTBT/Days` 126.36 K
-2. Product Lover
-   - `AGV Spending` 195.4 K ,`AGV SKU` 28.15 K,`AGV MTBT/Days` 14.61 K
-3. General Shopper
-   - _Begin to Clustering 2st round the propotion stand more than 65.74%_
-
-![FirstGroup](./first.png) 
-
-* "General Shopper" นำมาทำ K-Mean รอบที่สองโดย K=3 ทำให้ได้ 3 Cluster ออกมาอีกในการวิเคราะห์
-  
-1. Shopper Loyalist
-   - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
-2. Need Attention
-   - `AGV Spending` 231.5 K ,`AGV SKU` 4.51 K,`AGV MTBT/Days` 64.09 K
-3. Product Leader
-   - `AGV Spending` 153 K ,`AGV SKU` 10.51 K,`AGV MTBT/Days` 21.11 K
-   
-![SecondGroup](./second.png) 
-
-
-* จากกลุ่มทั้งหมด 5 กลุ่มที่ผ่านการ Clustering 2 รอบเราได้เลือก 2 กลุ่มขึ้นมายกตัวอย่างในการทำ Analyses ต่อโดยใช้ Collaborative Filtering เพื่อค้นหาและแนะนำสินค้าที่มีความเป็นไปได้สูงว่าลูกค้าในกลุ่มเดียวกันจะสนใจโดยจุดประสงค์เพื่อ เพิ่มยอดขายจากการทำ Campaign ที่ผ่านการตัดสินจากข้อมูลที่มี
-  
-1. Shopper Loyalist
-   - `AGV Spending` 514.1 K ,`AGV SKU` 7.04 K,`AGV MTBT/Days` 26.31 K
-2. Shopper Elite
-   - `AGV Spending` 1.2 M ,`AGV SKU` 3.66 K,`AGV MTBT/Days` 126.36 K
-     
-![PotentialGroup](./Potential.png) 
-
-### Collaborative Filtering
-Item-Based Collaborative Filtering: In this approach, items are compared based on their interactions with users. Items that are frequently interacted with by the same group of users are considered similar.
-
-![Collabolative](./Collabo.png)   
-![Recommended Products](./Productrec.png) 
+### Business Objective
+   - `Active Users` ลดลงจากเดิมไปเรื่อยๆจึงอยากนำข้อมูลของลูกค้าที่มีนำวิเคราะห์และประยุกต์ให้เกิดประโยชน์สูงสุด
+![ProjectOverview](./Overview.png)  
+### Action Plan
+   - นำข้อมูล Voice of Customers หรือคอมเม้นและรีวิวของ `Active Users` และ `Non-Active Users` ล่าสุดมาวิเคราะห์เพื่อหา Sentiment และข้อที่ต้องปรับปรุงเพื่อสร้าง UX ที่ดีให้กับลูกค้าที่ใช้งาน 'TrueMoney' Application
+![ProjectOverview](./Overview.png)  
