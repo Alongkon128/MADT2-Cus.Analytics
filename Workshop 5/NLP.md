@@ -21,7 +21,7 @@
 ## 'TrueMoney' Application (by 'True Money Company Limtied')
 ### ทรูมันนี่ คือแอปพลิเคชันทางการเงินที่ให้บริการครบวงจรทั้งการใช้จ่าย ออม และลงทุน อีกทั้งยังสามารถใช้จ่ายแทนเงินสด 'Wallet' ได้ทั้งใช้ซื้อสินค้าที่เซเว่น-อีเลฟเว่น จ่ายบิล เติมเงินมือถือและอื่น 
 
-![ProjectOverview](./Overview.png)  
+![truemoney](./trueback.png)  ![truemoney](./truefont.png)  
 
 ### Business Objective
    - `Active Users` ลดลงจากเดิมไปเรื่อยๆจึงอยากนำข้อมูลของลูกค้าที่มีนำวิเคราะห์และประยุกต์ให้เกิดประโยชน์สูงสุด
