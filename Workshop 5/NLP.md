@@ -22,7 +22,7 @@
 ### ทรูมันนี่ คือแอปพลิเคชันทางการเงินที่ให้บริการครบวงจรทั้งการใช้จ่าย ออม และลงทุน อีกทั้งยังสามารถใช้จ่ายแทนเงินสด 'Wallet' ได้ทั้งใช้ซื้อสินค้าที่เซเว่น-อีเลฟเว่น จ่ายบิล เติมเงินมือถือและอื่น 
 
  <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/truefont.PNG" width="200" height="400">  
- <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/truefont.PNG" width="200" height="400">
+ <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/trueback.PNG" width="200" height="400">
 ### Business Objective
    - `Active Users` ลดลงจากเดิมไปเรื่อยๆจึงอยากนำข้อมูลของลูกค้าที่มีนำวิเคราะห์และประยุกต์ให้เกิดประโยชน์สูงสุด
 ![ProjectOverview](./Overview.png)  
