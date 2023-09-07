@@ -15,17 +15,19 @@
   #### Natural language processing (NLP) 
   - การประมวลผลภาษาธรรมชาติ (NLP) เป็นเทคโนโลยีแมชชีนเลิร์นนิ่งที่ช่วยให้คอมพิวเตอร์สามารถตีความ จัดการ และทำความเข้าใจภาษามนุษย์ได้ องค์กรในปัจจุบันมีข้อมูลเสียงและข้อความจำนวนมากจากช่องทางการสื่อสารต่างๆ เช่น อีเมล ข้อความ ฟีดข่าวโซเชียลมีเดีย วิดีโอ เสียง และอื่นๆ พวกเขาใช้ซอฟต์แวร์ NLP เพื่อประมวลผลข้อมูลนี้โดยอัตโนมัติ 
 
-# _Case Analysis_
+# Case Analysis
 [![](https://img.shields.io/badge/-Python-green)](#) [![](https://img.shields.io/badge/Noises-blue)](#) [![](https://img.shields.io/badge/NLP-red)](#) 
 
-## 'TrueMoney' Application (by 'True Money Company Limtied')
-### ทรูมันนี่ คือแอปพลิเคชันทางการเงินที่ให้บริการครบวงจรทั้งการใช้จ่าย ออม และลงทุน อีกทั้งยังสามารถใช้จ่ายแทนเงินสด 'Wallet' ได้ทั้งใช้ซื้อสินค้าที่เซเว่น-อีเลฟเว่น จ่ายบิล เติมเงินมือถือและอื่น 
+## _'TrueMoney' Application (by 'True Money Company Limtied')_
+#### ทรูมันนี่ คือแอปพลิเคชันทางการเงินที่ให้บริการครบวงจรทั้งการใช้จ่าย ออมเงินพร้อมรับดอกเบี้ย หรือแม้กระทั้งการลงทุน อีกทั้งยังสามารถใช้ 'Wallet' จ่ายแทนเงินสดได้ทั้งใช้ซื้อสินค้าที่เซเว่น-อีเลฟเว่น จ่ายบิล เติมเงินมือถือและอื่นๆ 
 
- <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/truefont.PNG" width="200" height="400">  
- <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/trueback.PNG" width="200" height="400">
+ <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/truefont.PNG" width="200" height="400">  <img src="https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/trueback.PNG" width="200" height="400">
 ### Business Objective
    - `Active Users` ลดลงจากเดิมไปเรื่อยๆจึงอยากนำข้อมูลของลูกค้าที่มีนำวิเคราะห์และประยุกต์ให้เกิดประโยชน์สูงสุด
 ![ProjectOverview](./Overview.png)  
 ### Action Plan
    - นำข้อมูล Voice of Customers หรือคอมเม้นและรีวิวของ `Active Users` และ `Non-Active Users` ล่าสุดมาวิเคราะห์เพื่อหา Sentiment และข้อที่ต้องปรับปรุงเพื่อสร้าง UX ที่ดีให้กับลูกค้าที่ใช้งาน 'TrueMoney' Application
+![ProjectOverview](./Overview.png)
+### Data Strategy
+   - 
 ![ProjectOverview](./Overview.png)  
