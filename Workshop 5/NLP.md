@@ -26,9 +26,9 @@
    - `Active Users` ลดลงจากเดิมไปเรื่อยๆจึงอยากนำข้อมูลของลูกค้าที่มีนำวิเคราะห์และประยุกต์ให้เกิดประโยชน์สูงสุด
 ![ProjectOverview](./Overview.png)  
 ### Action Plan
-   - นำข้อมูล Voice of Customers หรือคอมเม้นและรีวิวของ `Active Users` และ `Non-Active Users` ล่าสุดมาวิเคราะห์เพื่อหา Sentiment และข้อที่ต้องปรับปรุงเพื่อสร้าง UX ที่ดีให้กับลูกค้าที่ใช้งาน 'TrueMoney' Application ผ่านการทำ topic modelling ML โดย  **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2o4aIkuh1thp0yEJWS_EmCW0VNpIsQT#scrollTo=kcPwk-oxSEUO)
+   - นำข้อมูลคอมเม้นและรีวิวของ`Users` บน Appstore Platform เพิ่อวิเคราะห์หา Sentiment หรือ Voice of Customers พร้อมนำไปปรับปรุงเพื่อสร้าง UX/UI ที่ดีให้กับลูกค้าที่ใช้งาน 'TrueMoney' Application 
 ### Data Strategy
-
+ประยุกต์การทำ topic modelling ML โดย  **Google Colab :** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X2o4aIkuh1thp0yEJWS_EmCW0VNpIsQT#scrollTo=kcPwk-oxSEUO)
 28 Comments in Total reviewed on`Appstore` ขนาดไฟล์ `CSV Document - 10 KB`
 * Methodology to perform topic modelling by using LDA result, VOC was divided into 4 topics
   1. Removing TH stopwords + TH Selected_words
