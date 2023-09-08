@@ -1,4 +1,4 @@
- Churn Scoring
+#Churn Scoring
 [![](https://img.shields.io/badge/-Classification-orange)](#) [![](https://img.shields.io/badge/-Python-green)](#) 
 **Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
@@ -12,3 +12,6 @@ The dataset was processed by using Google Colab notebooks as the following :
 * Transform the category variable to numeric variable by using one-hot encoding technique.
 * Perform standard scaling on x variable.
 * Split dataset to test set and train set with ratio at 0.2.
+
+_Case Analysis_
+
