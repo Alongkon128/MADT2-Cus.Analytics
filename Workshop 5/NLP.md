@@ -39,8 +39,17 @@
 * 28 Comments in Total reviewed on`Appstore` ขนาดไฟล์ `CSV Document - 10 KB`
 #### Methodology 
 >**PYthaiNLP** : Removed Thai Stopwords and Some Selected Syntax
->**Tokenize**  : Tokenize words to see Result
->**Replace Word**  : Grouping Words with similar Meaning
 >>**Tokenize**  : Tokenize words to see Result
-4. **Crisis Management:**
+>>>**Replace Word**  : Grouping Words with similar Meaning
+>>>>**Tokenize**  : Tokenize words to see Result
+>>>>>**Dictionary**  : Create Dic. for Tokenized word
 
+>**NLP : Topic Modeling** : Removed Thai Stopwords and Some Selected Syntax
+>>**num_topics** = 3
+>>>**hunksize** = 4000
+>>>>**passes through documents** = 20
+>>>>>**iterations** = 50
+>>>>>>**evaluate model every** = 1 
+
+### _Result to Business Recommendation_
+........กระบวนการรวบรวมและทำความเข้าใจความคิดเห็น ความคิดเห็น ความชอบ และความคาดหวังของลูกค้าเกี่ยวกับผลิตภัณฑ์ บริการ หรือแบรนด์ เป็นองค์ประกอบสำคัญของการจัดการประสบการณ์ลูกค้าและการพัฒนาผลิตภัณฑ์ ช่วยให้องค์กรต่างๆ จัดข้อเสนอให้สอดคล้องกับความต้องการและความปรารถนาของลูกค้า เช่น การวิเคราะห์ 'Sentiment' ของลูกค้าที่ฝังอยู่ในข้อความและรีวิวเป็นพันๆหมื่นๆข้อความ หรือแม้กระทั้งตอบโจทย์การเพิ่ม 'Satisfaction' ของลูกค้าในการบริการที่ Realtime & Accurated มาขึ้นจาก Chatbot Intellitegent
