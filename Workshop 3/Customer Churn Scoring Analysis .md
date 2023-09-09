@@ -5,7 +5,8 @@
 
 ## _Case Analysis_
 * Dataset : Non Contractial Customers : E-Commerce Industry
-* Objevtive : Identify New Customers > Active Customer > Inactive ( Window Period ) > Churn
+* Objevtive : Perform Feature Engineering to identify the importance viaribles, before go to machine learning
+_New Customers > Active Customer > Inactive ( Window Period ) > Churn_
 * 
 
 
