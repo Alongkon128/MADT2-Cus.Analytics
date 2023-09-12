@@ -24,7 +24,7 @@ Each week, we focused on a different topic, allowing participants to gain practi
 5. Workshop 5 - Voice of Customer Analytics Customer Analytics
    - Project: [Link to Week 5 Project Folder](./week5)
 
-[Homework 1 Customer Data Platform](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%201%20Customer%20Data%20Platform)\
+[Homework 1 Customer Data Platform](https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%201/Customer%20Analytics.md)\
 ![Generic badge](https://img.shields.io/badge/Concept_design-8A2BE2)
 
 [Homework 2 Customer Lifetime Value](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%202%20Customer%20Lifetime%20Value)\
