@@ -17,7 +17,7 @@ This showcases of my Customer Analytics projects throughout 10 weeks of classes,
 
 Each week, we focused on a different topic, allowing participants to gain practical skills and knowledge in various areas. Here's an overview of the topics covered:
 1. Week 1 - Introduction to Programming: Fundamentals of programming languages, variables, data types, and control structures.
-   - Project: [(https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/d1122b2184e28d94e835708eb6130353f422f524/Week1)](./week1)
+   - Project: [(Workshop1)](./[week1](https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/NLP.md))
 
 2. Week 2 - Web Development Basics: HTML, CSS, and building static web pages.
    - Project: [Link to Week 2 Project Folder](./Workshop1)
