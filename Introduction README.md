@@ -10,7 +10,7 @@ This showcases of my Customer Analytics projects throughout 10 weeks of classes,
 
 Each week, we focused on a different topic, allowing participants to gain practical skills and knowledge in various areas. Here's an overview of the topics covered:
 1. Workshop 1 - Designing Customer Data Platform / Customer Single View
-   - Project: [(Workshop1)](./https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%201/Customer%20Analytics.md)
+   - Project: [(Workshop1)](https://github.com/Alongkon128/MADT2-Cus.Analytics/tree/main/Workshop%201)
 
 2. Workshop 2 - Customer loyalty Scoring Program
    - Project: [Link to Week 2 Project Folder](./Workshop1)
