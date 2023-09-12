@@ -7,43 +7,51 @@ This showcases of my Customer Analytics projects throughout 10 weeks of classes,
 
 
 ## Table of Contents
-- Designing Customer Data Platform / Customer Single View
-- Customer loyalty Scoring Program
-- Churn Scoring
-- Customer Segmentation /  Product Recommendation
-- Voice of Customer Analytics Customer Analytics
-
-## Topics Covered
 
 Each week, we focused on a different topic, allowing participants to gain practical skills and knowledge in various areas. Here's an overview of the topics covered:
-1. Week 1 - Introduction to Programming: Fundamentals of programming languages, variables, data types, and control structures.
+1. Workshop 1 - Designing Customer Data Platform / Customer Single View
    - Project: [(Workshop1)](./https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%205/NLP.md)
 
-2. Week 2 - Web Development Basics: HTML, CSS, and building static web pages.
+2. Workshop 2 - Customer loyalty Scoring Program
    - Project: [Link to Week 2 Project Folder](./Workshop1)
 
-3. Week 3 - Version Control with Git: Working with Git for collaboration and code management.
+3. Workshop 3 - Churn Scoring
    - Project: [Link to Week 3 Project Folder](./week3)
 
-4. Week 4 - Python Programming: Deep dive into Python, libraries, and object-oriented programming.
+4. Workshop 4 - Customer Segmentation /  Product Recommendation
    - Project: [Link to Week 4 Project Folder](./week4)
 
-5. Week 5 - Data Wrangling: Extracting, transforming, and loading data using Pandas.
+5. Workshop 5 - Voice of Customer Analytics Customer Analytics
    - Project: [Link to Week 5 Project Folder](./week5)
 
-6. Week 6 - Data Visualization: Creating insightful visualizations with Matplotlib and Seaborn.
-   - Project: [Link to Week 6 Project Folder](./week6)
+[Homework 1 Customer Data Platform](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%201%20Customer%20Data%20Platform)\
+![Generic badge](https://img.shields.io/badge/Concept_design-8A2BE2)
 
-7. Week 7 - Machine Learning Fundamentals: Introduction to machine learning concepts and algorithms.
-   - Project: [Link to Week 7 Project Folder](./week7)
+[Homework 2 Customer Lifetime Value](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%202%20Customer%20Lifetime%20Value)\
+![Generic badge](https://img.shields.io/badge/Concept_design-8A2BE2)
+![Generic badge](https://img.shields.io/badge/SQL-blue)
 
-8. Week 8 - Deep Learning Basics: Understanding neural networks and implementing with TensorFlow.
-   - Project: [Link to Week 8 Project Folder](./week8)
+[Homework 3 Customer Churn Scoring](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%203%20Customer%20Churn%20Scoring)\
+![Generic badge](https://img.shields.io/badge/Modelling-DE3163)
+![Generic badge](https://img.shields.io/badge/Python-orange)
+![Generic badge](https://img.shields.io/badge/Classification-fuchsia)
+![Generic badge](https://img.shields.io/badge/Regression-lightgray)
+![Generic badge](https://img.shields.io/badge/Random_Forest-lightgray)
 
-9. Week 9 - Natural Language Processing: Analyzing text data and building language models.
-   - Project: [Link to Week 9 Project Folder](./week9)
 
-10. Week 10 - Project Showcase: Participants presented their final projects and received feedback.
-   - Project: [Link to Week 10 Project Folder](./week10)
+[Homework 4 Customer Segmentation and Product Recommendation](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%204%20Customer%20Segmentation%20and%20Product%20Recommendation)\
+![Generic badge](https://img.shields.io/badge/Modelling-DE3163)
+![Generic badge](https://img.shields.io/badge/Python-orange)
+![Generic badge](https://img.shields.io/badge/Dataiku-brightgreen)
+![Generic badge](https://img.shields.io/badge/Clustering-fuchsia)
+![Generic badge](https://img.shields.io/badge/K_Mean-lightgray)
+![Generic badge](https://img.shields.io/badge/Collaborative_filtering-lightgray)
 
+
+[Homework 5 Voice of Customer](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/tree/c0c2f7594ea0c26456347f5c596dc560356b2f33/Homework%205%20Voice%20of%20Customer)\
+![Generic badge](https://img.shields.io/badge/Modelling-DE3163)
+![Generic badge](https://img.shields.io/badge/Python-orange)
+![Generic badge](https://img.shields.io/badge/NLP-fuchsia)
+![Generic badge](https://img.shields.io/badge/Topic_Modeling-lightgray)
+![Generic badge](https://img.shields.io/badge/LDA-lightgray)
 
