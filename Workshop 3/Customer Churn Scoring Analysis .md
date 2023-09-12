@@ -1,13 +1,12 @@
 # Churn Scoring
 
-**Notebooks :** [Churn_Scoring](https://github.com/ZeroGravigra/MADT8101-Customer-Analytics/blob/c5b8ec09920fe8200742c9bba15cb068392cdf48/Homework%203%20Customer%20Churn%20Scoring/Raw%20Data/Churn_Scoring.ipynb)  
-**Google Colab:** [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)]() [![](https://img.shields.io/badge/-Python-green)](#) 
+[![](https://img.shields.io/badge/-Python-green)](#) 
+ **Notebooks :** [Churn_Scoring](https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%203/Churn_scoring.ipynb)  
 
 ## _Case Analysis_
 * Dataset : Non Contractial Customers : E-Commerce Industry
 * Objevtive : Perform Feature Engineering to identify the importance viaribles, before go to machine learning
 _New Customers > Active Customer > Inactive ( Window Period ) > Churn_
-* 
 
 
 ## _Methodology_
