@@ -12,3 +12,6 @@
 
 ![Measurement](./Measurement.png)
 ![Segmentation](./Segmentation.png)
+
+# ScoreCard Logistic Regression
+เราเริ่มจากการคิดตัวแปรต่างๆจุดประสงค์เพื่อที่จะแบ่งกลุ่มฐานลูกค้า โดยนำตัวแปรมาตั้งเป็น Rulebased แบ่งออกมาได้ 6 กลุ่มใหญ่
