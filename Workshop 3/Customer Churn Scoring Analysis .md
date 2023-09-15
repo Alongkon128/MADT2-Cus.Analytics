@@ -8,12 +8,16 @@ Reference : _https://www.adjust.com/glossary/churn-definition/_
 ## _Cohort Analysis_
 Wording "cohort" means a group of individuals who share a common characteristic or experience within a defined time frame. The most popular used in Marketing area would be : 
 
-* "Customers Acquisition", a customer to be a grouped as New customers who made their first purchase in a specific month or quarter, then analyzing the spending behavioro over time in order to gain the insight such `Retention Rate` `Customer lifetime value` `Customer lifespan`.  
+  
+* "Customers Acquisition", a customer to be a grouped as New customers who made their first purchase in a specific month or quarter, then analyzing the spending behavior over time to see when they will churn in order to gain the insight such `Retention Rate` `Customer lifetime value` `Customer lifespan`.  
 
 
 ![Cohort](./cohortanalysis.webp)
 Reference : _https://mode.com/blog/cohort-analysis-helps-look-ahead/_
 
+>   The graph displays cohorts on the x-axis as the month of first purchase or "New Customers" and a retention rate on percentage as metric on the y-axis. The trend lines indicated a respectively decline as you move from left to right on the graph, means retention rate is decreasing over time for these cohort.From the insight gave aways by this graph _if the Business is service-based, it mean the lack of attention to these new customers or shorten of employees._
+> 
+ 
 ## _Case Analysis_
 [![](https://img.shields.io/badge/-Python-green)](#)   **Notebooks :** [Churn_Scoring](https://github.com/Alongkon128/MADT2-Cus.Analytics/blob/main/Workshop%203/Churn_scoring.ipynb)  
 * Dataset : Non Contractial Customers : E-Commerce Industry
